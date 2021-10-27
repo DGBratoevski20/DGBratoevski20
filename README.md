@@ -23,6 +23,6 @@
 <hr>
 <h3 align="left">Badges:</h3>
 <a href ="https://www.credly.com/badges/871fdf36-688b-4f7a-bb68-25f8edd33e09/public_url"><img align="left" alt="HTML" width="150px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbratoevski20&" alt="dgbratoevski20" /></p>
