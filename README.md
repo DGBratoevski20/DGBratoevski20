@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgbratoevski20&label=Profile%20views&color=0e75b6&style=flat" alt="dgbratoevski20" /> </p>
 
 <img align="right" height="240" width="240" alt="" src="https://data.whicdn.com/images/176060756/original.jpg"/>
+
+
 - 👨🏻‍💻 I’m currently learning C++, HTML & CSS and Python
 
 - 🛠 I’m looking to collaborate on **C++ and HTML & CSS projects**
